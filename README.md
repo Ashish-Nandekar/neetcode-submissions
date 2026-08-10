@@ -44,13 +44,13 @@ The NeetCode 250 roadmap covers:
 Topic/
 └── Problem Name/
     ├── submission-0.java
-    ├── submission-1.java
+    ├── submission-1.py
     └── ...
 ```
 
 ## Language
 
-Most solutions in this repository are written in **Java**.
+Most solutions in this repository are written in **Python** and **Java**.
 
 ## Progress
 
